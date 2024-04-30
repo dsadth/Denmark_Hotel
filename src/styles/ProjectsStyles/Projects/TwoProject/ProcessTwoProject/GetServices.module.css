@@ -1,0 +1,32 @@
+.get_service {
+    width: 1920px;
+    height: 407px;
+    display: flex;
+    border-bottom: 1px solid #bdbdbd;
+    margin-top: 700px;
+    position: absolute;
+  }
+  .block_get_service {
+    width: 1728px;
+    height: 327px;
+    display: flex;
+    background-color: #f2f2f2;
+    margin-left: 88px;
+    margin-top: 50px;
+  }
+  .heading {
+    width: 623px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  .button {
+    width: 677px;
+    height: 100px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 36px;
+    cursor: pointer;
+    margin-top: 100px;
+  }
+  

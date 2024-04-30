@@ -1,0 +1,48 @@
+.belly {
+  width: 1920px;
+  position: absolute;
+  height: 500px;
+  margin-top: 2600px;
+}
+
+.heading_block {
+  position: absolute;
+}
+.heading {
+  font-size: 48px;
+  font-weight: 300;
+  margin-left: 50px;
+}
+.border {
+  width: 200px;
+  height: 10px;
+  background-color: black;
+}
+
+.belly_heading_block {
+  font-size: 48px;
+  position: absolute;
+  width: 1300px;
+  margin-left: 190px;
+  margin-top: 0px;
+}
+
+.main_block {
+  display: flex;
+  position: absolute;
+  margin-top: 250px;
+}
+.blocks {
+  display: inline-flexbox;
+  margin-top: 300px;
+  margin-left: 190px;
+}
+.heading_blocks {
+  font-size: 24px;
+  font-weight: 400;
+}
+.heading_paragraph {
+  font-size: 20px;
+  font-weight: 400;
+  width: 400px;
+}

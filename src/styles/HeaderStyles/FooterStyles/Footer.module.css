@@ -1,0 +1,91 @@
+.footer {
+  width: 1920px;
+  height: 1075px;
+  display: flex;
+}
+
+.background {
+  position: absolute;
+  margin-top: 270px;
+}
+
+.slice {
+  position: absolute;
+  margin-left: 883px;
+  margin-top: 270px;
+}
+
+.logo {
+  position: absolute;
+  margin-top: 700px;
+  margin-left: 60px;
+}
+
+.fours_blocks {
+  display: flex;
+  margin-top: 858px;
+  position: absolute;
+}
+
+.heading {
+  color: #faff09;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 60px;
+}
+
+.paragraph {
+  font-size: 18px;
+  color: white;
+  line-height: 26px;
+}
+
+.first_block {
+  margin-left: 60px;
+}
+.two_block {
+  margin-left: 156px;
+}
+.three_block {
+  margin-left: 184px;
+}
+.four_block {
+  margin-left: 166px;
+}
+
+.block_right {
+  position: absolute;
+  margin-left: 1100px;
+  margin-top: 730px;
+  display: flex;
+}
+
+.logos {
+  margin-left: 65px;
+  cursor: pointer;
+}
+
+.button {
+  width: 70px;
+  height: 185px;
+  background: none;
+  margin-left: 1700px;
+  margin-top: 256px;
+  display: flex;
+  position: absolute;
+}
+
+.span_button {
+  transform: rotate(-90deg);
+  font-size: 24px;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: 1700px;
+  margin-top: 370px;
+}
+
+.arrow {
+  position: absolute;
+  margin-left: 1730px;
+  margin-top: 270px;
+}

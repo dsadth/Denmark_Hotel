@@ -1,0 +1,152 @@
+.knees {
+  display: flex;
+  width: 1920px;
+  height: 1350px;
+  margin-top: px;
+  border: 1px solid black;
+}
+
+.item {
+  display: inline-flex;
+  margin-left: 150px;
+}
+
+.items {
+  display: inline-flexbox;
+  width: 400px;
+  height: 500px;
+}
+
+.items_block {
+  margin-top: 300px;
+}
+
+.six_steps {
+  font-size: 48px;
+  line-height: 56px;
+  position: absolute;
+  font-weight: 300;
+  width: 673px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.border_six_steps {
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  background-color: black;
+  margin-top: 250px;
+}
+
+.number {
+  font-size: 64px;
+  position: absolute;
+  margin-top: 100px;
+}
+
+.heading_six {
+  font-size: 32px;
+  margin-left: 80px;
+  margin-top: 50px;
+  width: 300px;
+  margin-bottom: 0;
+  height: 0;
+}
+
+.heading_six_background {
+  width: 163px;
+  height: 52px;
+  background-color: yellow;
+  position: absolute;
+  margin-left: 1330px;
+  margin-top: 900px;
+  z-index: -1;
+}
+
+.heading {
+  font-size: 32px;
+  margin-left: 80px;
+  margin-top: 50px;
+  width: 163px;
+  background-color: yellow;
+}
+
+.paragraph {
+  font-size: 28px;
+  margin-left: 80px;
+  margin-top: 0;
+  padding-top: 0;
+  width: 345px;
+}
+
+.paragraph_two {
+  margin-top: 0;
+  width: 300px;
+}
+
+.paragraph_point {
+  font-size: 14px;
+  margin-left: 120px;
+}
+
+.image {
+  margin-left: 77px;
+}
+
+.point_background {
+  position: absolute;
+  margin-left: 80px;
+}
+.point_image {
+  position: absolute;
+  margin-left: 85px;
+  margin-top: 6px;
+}
+
+.button {
+  width: 510px;
+  height: 112px;
+  background: none;
+  font-size: 36px;
+  position: absolute;
+  cursor: pointer;
+  margin-top: 1200px;
+  margin-left: 230px;
+}
+
+.arrow {
+  margin-left: 63px;
+  font-weight: 300;
+}
+
+.border_horizontal {
+}
+
+.border_vertical {
+}
+
+.horizontal {
+  position: absolute;
+  margin-top: 750px;
+  width: 1706px;
+  margin-left: 100px;
+}
+
+.verticalOne {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 710px;
+}
+
+.verticalTwo {
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 710px;
+}
+
+.verticalThree {
+  position: absolute;
+  margin-left: 1500px;
+  margin-top: 710px;
+}

@@ -1,0 +1,81 @@
+.legs {
+  width: 1920px;
+  height: 1100px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-top: 10600px;
+  display: flex;
+  border-top: 1px solid #000;
+}
+
+.top_block {
+  display: flex;
+  border-bottom: 1px solid black;
+  height: 500px;
+  width: 1920px;
+}
+.left_block {
+  display: flex;
+}
+.heading_left_block {
+  font-size: 36px;
+  font-weight: 400;
+  width: 352px;
+  margin-left: 80px;
+  margin-top: 90px;
+}
+
+.border {
+  width: 180px;
+  height: 500px;
+  border-right: 1px solid black;
+  position: absolute;
+  margin-left: 500px;
+}
+
+.right_block {
+  position: absolute;
+  display: flex;
+  margin-left: 900px;
+  width: 910px;
+  margin-top: 70px;
+}
+.heading_right_block {
+  position: absolute;
+  font-size: 24px;
+  font-weight: 300;
+  width: 800px;
+}
+.heading_bottom_right_block {
+  position: absolute;
+  font-size: 24px;
+  margin-top: 200px;
+  font-weight: 300;
+  width: 800px;
+}
+
+.button_block {
+  position: absolute;
+  margin-top: 42px;
+  margin-left: 700px;
+}
+.button {
+  width: 209px;
+  height: 61px;
+  border: 1px solid black;
+  background: none;
+  cursor: pointer;
+  font-size: 18px;
+  margin-left: 50px;
+}
+
+.button:hover {
+  color: white;
+  background-color: black;
+}
+
+
+.GetService{
+    position: absolute;
+    margin-top: 150px;
+}

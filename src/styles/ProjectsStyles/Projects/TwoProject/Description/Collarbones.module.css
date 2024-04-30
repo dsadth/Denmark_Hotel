@@ -1,0 +1,57 @@
+.collarbones {
+  width: 1920px;
+  height: 400px;
+  background-color: white;
+  margin-top: 1270px;
+  position: absolute;
+}
+
+.block_info {
+  display: flex;
+  margin-top: 0;
+}
+
+.left_block {
+  width: 400px;
+  height: 500px;
+  margin-top: 0;
+  margin-left: 81px;
+  margin-top: 90px;
+}
+
+.border_left_block {
+  width: 600px;
+  border-right: 2px solid #e0e0e0;
+  height: 500px;
+  position: absolute;
+  margin-left: 40px;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 850px;
+  margin-top: 90px;
+  display: flex;
+  width: 910px;
+  height: 175px;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: 400;
+}
+.paragraph {
+  font-weight: 300;
+  font-size: 28px;
+}
+.size {
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 50px;
+}
+.heading_right_block_info {
+  font-size: 34px;
+  font-weight: 300;
+  width: 910px;
+  height: 175px;
+}

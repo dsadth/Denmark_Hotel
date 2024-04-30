@@ -1,0 +1,43 @@
+.legs {
+  margin-top: 50px;
+  display: flex;
+}
+
+.paragraph_block {
+  position: absolute;
+  color: white;
+  margin-top: 300px;
+  display: inline-table;
+  width: 1920px;
+}
+
+.heading {
+  color: white;
+  font-size: 48px;
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 196px;
+  font-weight: 300;
+  line-height: 70px;
+  width: 1920px;
+}
+
+.blocks {
+  display: inline-block;
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 255px;
+}
+.white_block {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+
+  margin-top: 80px;
+}
+
+.paragraph {
+  margin-left: 600px;
+  font-size: 36px;
+  margin-top: 55px;
+}

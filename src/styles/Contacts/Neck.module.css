@@ -1,0 +1,88 @@
+.neck {
+  position: absolute;
+  display: flex;
+  margin-top: 100px;
+}
+
+.heading_link_block {
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.heading_link {
+  width: 600px;
+  font-size: 14px;
+}
+
+.neck_block_contact {
+  display: inline-table;
+  width: 100%;
+}
+.left_block {
+  margin-left: 200px;
+  margin-top: 50px;
+  position: absolute;
+}
+.heading {
+  font-size: 48px;
+}
+
+.block_email {
+  display: inline;
+}
+
+.paragraph_email {
+  font-size: 24px;
+  font-weight: 300;
+}
+.paragraph_email_gid {
+  font-size: 24px;
+  font-weight: 400;
+}
+.phone_block {
+  margin-top: 70px;
+}
+.heading_phone {
+  font-size: 24px;
+  line-height: 42px;
+  font-weight: 300;
+}
+.phone_heading_number {
+  font-size: 24px;
+  width: 203px;
+}
+
+.middle_block {
+  margin-left: 700px;
+  margin-top: 170px;
+  position: absolute;
+}
+.office {
+  font-size: 24px;
+}
+.street {
+  width: 270px;
+  font-size: 24px;
+  line-height: 42px;
+}
+.right_block {
+  position: absolute;
+  margin-left: 1200px;
+  width: 400px;
+  margin-top: 150px;
+}
+
+.social_media {
+  position: absolute;
+  margin-left: 50px;
+  width: 600px;
+}
+
+.social_image_block {
+  display: flex;
+  margin-top: 100px;
+}
+.social_image {
+  padding-left: 50px;
+  width: 300px;
+}

@@ -1,0 +1,26 @@
+.header {
+  width: 1920px;
+  height: 104px;
+  display: flex;
+  position: absolute;
+  background-color: #000000;
+  opacity: 90%;
+}
+
+.menu_main {
+  margin-left: 103px;
+  margin-top: 36px;
+  position: absolute;
+}
+
+.logo {
+  position: absolute;
+  margin-left: 868px;
+  margin-top: 14px;
+}
+
+.phone {
+  position: absolute;
+  margin-left: 1600px;
+  cursor: pointer;
+}

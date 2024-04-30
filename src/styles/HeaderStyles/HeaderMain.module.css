@@ -1,0 +1,27 @@
+.header_main {
+  width: 1920px;
+  height: 104px;
+  display: flex;
+  position: absolute;
+}
+
+.menu_main {
+  margin-left: 103px;
+  margin-top: 36px;
+  position: absolute;
+}
+
+.background {
+  position: absolute;
+}
+
+.logo {
+  position: absolute;
+  margin-left: 737px;
+  margin-top: 15px;
+}
+
+.phone {
+  position: absolute;
+  margin-left: 1600px;
+}

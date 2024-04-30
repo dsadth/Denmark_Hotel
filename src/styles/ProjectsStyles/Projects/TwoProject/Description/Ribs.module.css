@@ -1,0 +1,25 @@
+.ribs {
+  width: 1920px;
+  height: 2000px;
+  position: absolute;
+  display: flex;
+  margin-top: 1750px;
+}
+
+.image_first {
+  position: absolute;
+  width: 950px;
+  height: 942px;
+}
+
+.image_two {
+  position: absolute;
+  width: 950px;
+  height: 942px;
+  margin-left: 970px;
+}
+
+.image_three {
+  position: absolute;
+  margin-top: 960px;
+}

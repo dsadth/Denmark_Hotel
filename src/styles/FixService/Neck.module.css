@@ -1,0 +1,101 @@
+.neck {
+  margin-top: 300px;
+}
+
+.button {
+  width: 445px;
+  height: 60px;
+  background-color: yellow;
+  border: none;
+  margin-top: 60px;
+  cursor: pointer;
+  display: flex;
+}
+
+.button span {
+  font-size: 28px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.button_block {
+  display: inline-block;
+  width: 445px;
+  margin-left: 150px;
+}
+
+.images_block {
+  display: flex;
+  margin-left: 0;
+  margin-top: 30px;
+}
+
+.heading {
+}
+
+.image {
+  margin-left: 10px;
+}
+
+.heading_demontage {
+  position: absolute;
+  font-size: 24px;
+  width: 600px;
+  margin-top: 10px;
+  margin-left: 120px;
+  font-weight: 300;
+}
+.heading_wall {
+  position: absolute;
+  font-size: 24px;
+  width: 600px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-weight: 300;
+}
+.heading_sex {
+  position: absolute;
+  font-size: 24px;
+  width: 600px;
+  margin-top: 10px;
+  margin-left: 100px;
+  font-weight: 300;
+}
+.heading_sound_off {
+  position: absolute;
+  font-size: 24px;
+  width: 600px;
+  margin-left: 100px;
+  margin-top: 10px;
+  font-weight: 300;
+}
+
+.cube {
+  position: absolute;
+  margin-top: 290px;
+}
+
+.cube_one {
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 100px;
+}
+
+.cube_two {
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 80px;
+}
+.cube_three {
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 80px;
+}
+
+.plus {
+  font-size: 50px;
+  position: absolute;
+  margin-left: 390px;
+  margin-top: 60px;
+  cursor: pointer;
+}

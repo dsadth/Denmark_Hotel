@@ -1,0 +1,43 @@
+.hips {
+  width: 1920px;
+  height: 500px;
+  position: absolute;
+  margin-top: 3500px;
+  display: flex;
+}
+
+.background {
+  position: absolute;
+  display: flex;
+}
+
+.block {
+  display: flex;
+}
+
+.we_there_where {
+  position: absolute;
+  margin-left: 600px;
+  color: white;
+  margin-top: 200px;
+  font-size: 48px;
+  font-weight: 300;
+}
+.cube {
+  width: 20px;
+  height: 20px;
+  margin-left: 400px;
+  margin-top: 25px;
+}
+.paragraph {
+  margin-left: 50px;
+  width: 1000px;
+  color: white;
+  font-size: 36px;
+}
+
+.main_block {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 200px;
+}

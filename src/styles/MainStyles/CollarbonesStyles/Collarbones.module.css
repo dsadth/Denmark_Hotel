@@ -1,0 +1,40 @@
+.collarbones {
+  width: 1920px;
+  height: 272px;
+}
+
+.block_rec {
+  width: 1840px;
+  height: 272px;
+  background-color: #f2f2f2;
+  margin-left: 40px;
+  margin-top: 45px;
+  display: flex;
+}
+
+.tablets {
+  margin-left: 128px;
+}
+
+.heading {
+  font-size: 64px;
+  margin-bottom: 0;
+}
+
+.heading_two {
+  margin-left: 6px;
+}
+
+.paragraph {
+  width: 300px;
+  margin-top: 0;
+}
+
+.square {
+  height: 20px;
+  margin-top: 20px;
+}
+
+.square_heading_two {
+  display: flex;
+}

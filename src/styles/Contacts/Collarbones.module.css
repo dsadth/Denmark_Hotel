@@ -1,0 +1,65 @@
+.collarbones {
+  width: 1920px;
+  position: absolute;
+  display: flex;
+  margin-top: 650px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  height: 820px;
+}
+
+.collarbones_block {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.inputs_left_block {
+  position: absolute;
+}
+
+.heading {
+  font-size: 48px;
+}
+.heading_input {
+  font-size: 24px;
+}
+.input {
+  width: 600px;
+  height: 73px;
+}
+
+.right_block {
+  display: inline-flexbox;
+  position: absolute;
+  margin-left: 800px;
+}
+
+.heading_right_block {
+  font-size: 24px;
+}
+
+.description {
+  width: 809px;
+  height: 383px;
+}
+.button {
+  width: 290px;
+  background-color: black;
+  color: white;
+  height: 70px;
+  font-size: 24px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.checkbox {
+  position: absolute;
+  margin-top: 780px;
+  margin-left: 1000px;
+}
+
+.heading_checkbox {
+  position: absolute;
+  font-size: 14px;
+  margin-top: 780px;
+  margin-left: 1020px;
+}

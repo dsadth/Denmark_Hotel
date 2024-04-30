@@ -1,0 +1,9 @@
+.fix {
+  display: flex;
+  position: absolute;
+}
+
+.footer {
+  position: absolute;
+  margin-top: 9200px;
+}

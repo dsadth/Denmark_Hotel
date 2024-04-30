@@ -1,0 +1,114 @@
+.knees {
+  position: absolute;
+  margin-top: 5200px;
+  border-bottom: 1px solid black;
+  height: 1200px;
+}
+
+.item {
+  display: inline;
+  width: px;
+  margin-left: 130px;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 80px;
+}
+
+.block {
+  position: absolute;
+  width: 163px;
+  height: 52px;
+  background-color: yellow;
+  margin-top: 71px;
+  margin-left: 70px;
+}
+
+.item_block {
+  display: inline-block;
+  margin-top: 300px;
+  width: 500px;
+}
+
+.number {
+  font-size: 64px;
+  position: absolute;
+  margin-top: 60px;
+}
+
+.heading {
+  position: absolute;
+  font-size: 32px;
+  margin-top: 80px;
+  margin-left: 80px;
+  z-index: 1;
+}
+
+.paragraph {
+  font-size: 28px;
+  margin-left: 80px;
+  margin-top: 130px;
+  width: 380px;
+}
+
+.line {
+  width: 1706px;
+  height: 1x;
+  position: absolute;
+  margin-top: 700px;
+  margin-left: 100px;
+}
+
+.linetwo {
+  margin-top: 660px;
+  margin-left: 500px;
+  position: absolute;
+}
+
+.linetwotwo {
+  margin-top: 660px;
+  margin-left: 1000px;
+  position: absolute;
+}
+
+.linetwothree {
+  margin-top: 660px;
+  margin-left: 1600px;
+  position: absolute;
+}
+
+.button {
+  width: 510px;
+  height: 114px;
+  background: none;
+  border: 1px solid black;
+  font-size: 36px;
+  position: absolute;
+  margin-left: 1300px;
+  margin-top: 930px;
+  cursor: pointer;
+}
+
+.arrow {
+  margin-left: 30px;
+}
+
+.heading_border_block {
+  width: 600px;
+  position: absolute;
+  margin-top: 150px;
+}
+.heading_border {
+  font-size: 48px;
+  width: 1000px;
+  margin-left: 70px;
+}
+.border {
+  width: 200px;
+  height: 10px;
+  background-color: black;
+}

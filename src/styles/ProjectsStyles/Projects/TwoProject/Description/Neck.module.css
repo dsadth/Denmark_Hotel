@@ -1,0 +1,62 @@
+.two_project_neck {
+  display: flex;
+  width: 1920px;
+  height: 1082px;
+  position: absolute;
+  margin-top: 200px;
+}
+
+.background_opacity {
+  margin-left: 1415px;
+  margin-top: 200px;
+  width: 505px;
+  height: 274px;
+  position: absolute;
+  background-color: black;
+  opacity: 50%;
+}
+
+.project_info {
+  margin-left: 1415px;
+  margin-top: 200px;
+  width: 505px;
+  height: 274px;
+  position: absolute;
+}
+
+.heading_info {
+  color: white;
+  opacity: 100%;
+  position: absolute;
+  font-size: 36px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.paragraph {
+  color: white;
+  opacity: 100%;
+  position: absolute;
+  font-size: 28px;
+  margin-left: 50px;
+  margin-top: 70px;
+}
+.size {
+  color: white;
+  opacity: 100%;
+  position: absolute;
+  font-size: 28px;
+  margin-left: 50px;
+  margin-top: 130px;
+}
+.name_designer {
+  color: white;
+  opacity: 100%;
+  position: absolute;
+  font-size: 28px;
+  margin-left: 50px;
+  margin-top: 210px;
+}
+
+.name_designer span {
+  color: yellow;
+}

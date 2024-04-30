@@ -1,0 +1,147 @@
+.neck {
+  width: 1920px;
+  height: 100%;
+  margin-top: 220px;
+  position: absolute;
+  display: flex;
+}
+
+.left_block {
+  display: flex;
+  position: absolute;
+  height: 1500px;
+  width: 730px;
+  margin-left: 100px;
+}
+
+.take_style_project {
+}
+
+.accept_ideas_to_projects {
+  position: absolute;
+  margin-top: 1100px;
+}
+
+.number_left_block_take_style_project {
+  font-size: 72px;
+  position: absolute;
+  margin-bottom: 0;
+  font-weight: 300;
+}
+.heading_left_block_take_style_project {
+  font-size: 36px;
+  position: absolute;
+  margin-left: 100px;
+  width: 500px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.heading_two_left_block_take_style_project {
+  font-size: 36px;
+  position: absolute;
+  margin-left: 100px;
+  width: 600px;
+  font-weight: 300;
+  margin-bottom: 0;
+  margin-top: 80px;
+}
+.paragraph_left_block_take_style_project {
+  font-size: 18px;
+  margin-left: 100px;
+  width: 500px;
+  margin-top: 150px;
+}
+
+.number_left_block_accept_ideas_to_projects {
+  font-size: 72px;
+  position: absolute;
+  margin-bottom: 0;
+  font-weight: 300;
+}
+
+.heading_left_block_two_accept_ideas_to_projects {
+  font-size: 36px;
+  position: absolute;
+  margin-left: 100px;
+  width: 500px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.heading_two_left_block_accept_ideas_to_projects {
+  font-size: 36px;
+  position: absolute;
+  margin-left: 100px;
+  width: 600px;
+  font-weight: 300;
+  margin-bottom: 0;
+  margin-top: 120px;
+}
+
+.paragraph_left_block_accept_ideas_to_projects {
+  font-size: 18px;
+  margin-left: 100px;
+  width: 500px;
+  margin-top: 190px;
+}
+
+.middle_block {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 84px;
+}
+
+.two_image {
+  margin-left: 25px;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 900px;
+  height: 900px;
+}
+
+.clouds_one {
+  position: absolute;
+  margin-left: 500px;
+}
+
+.clouds_two {
+  position: absolute;
+  margin-top: 1050px;
+  margin-left: 100px;
+}
+
+.clouds_three {
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 1200px;
+}
+
+.customer {
+  position: absolute;
+  margin-left: 40px;
+  font-weight: 200;
+}
+.feedback {
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 40px;
+  width: 230px;
+}
+
+.art_director {
+  position: absolute;
+  margin-left: 40px;
+  font-weight: 200;
+  color: #828282;
+}
+
+.feedback_art_director {
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 40px;
+  width: 230px;
+  color: white;
+}

@@ -1,0 +1,80 @@
+.descriptions {
+  position: absolute;
+  width: 1920px;
+  margin-top: 6100px;
+  border-bottom: 1px solid black;
+  height: 1000px;
+}
+
+.swiper {
+  height: 960px;
+  width: 1880px;
+  position: absolute;
+}
+
+.image {
+  width: 220px;
+  height: 220px;
+}
+
+.first_slide {
+}
+.left_block {
+  display: flex;
+  margin-left: 100px;
+  position: absolute;
+  margin-top: 200px;
+}
+.name {
+  font-size: 28px;
+  margin-left: 70px;
+  position: absolute;
+  margin-left: 290px;
+}
+.role {
+  font-size: 18px;
+  width: 300px;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 290px;
+}
+.service {
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 150px;
+  font-weight: 300;
+  width: 400px;
+}
+.paragraph {
+  position: absolute;
+  width: 832px;
+  margin-top: 300px;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 970px;
+  display: flex;
+  margin-top: 200px;
+}
+
+.image_right {
+  position: absolute;
+}
+
+.heading_block {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+}
+.heading_heading {
+  font-size: 48px;
+  width: 900px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.border {
+  width: 200px;
+  height: 10px;
+  background-color: black;
+}

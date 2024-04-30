@@ -1,0 +1,30 @@
+.collarbones {
+  display: flex;
+  position: absolute;
+  margin-top: 1720px;
+}
+
+.block_image {
+  margin-left: 50px;
+}
+
+.image_one {
+  position: absolute;
+  margin-left: 25px;
+}
+
+.image_two {
+  position: absolute;
+  margin-left: 25px;
+  margin-top: 900px;
+}
+
+.image_three {
+  position: absolute;
+  margin-left: 630px;
+}
+
+.image_four {
+  position: absolute;
+  margin-left: 1200px;
+}

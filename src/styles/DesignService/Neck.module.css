@@ -1,0 +1,63 @@
+.neck {
+  width: 1920px;
+  position: absolute;
+  height: 3000px;
+  border-top: 2px solid #e0e0e0;
+  margin-top: 300px;
+
+}
+
+.item {
+  height: 300px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.item_block {
+  display: inline;
+  border-top: 2px solid black;
+}
+
+.block_heading {
+  width: 380px;
+  height: 60px;
+  background-color: yellow;
+  z-index: -1;
+  position: absolute;
+}
+
+.heading {
+  font-size: 28px;
+  padding-left: 50px;
+  width: 400px;
+  margin-top: 15px;
+  position: absolute;
+}
+
+.paragraph {
+  width: 800px;
+  margin-left: 450px;
+  margin-top: 30px;
+  position: absolute;
+  font-size: 28px;
+}
+
+.image {
+  width: 445px;
+  height: 271px;
+  position: absolute;
+  margin-left: 1250px;
+}
+
+.border {
+  width: 1920px;
+  position: absolute;
+  margin-top: 300px;
+  border-top: 2px solid #e0e0e0;
+}
+
+.border_vertical {
+  height: 2800px;
+  position: absolute;
+  border-right: 2px solid #e0e0e0;
+  margin-left: 1350px;
+}
